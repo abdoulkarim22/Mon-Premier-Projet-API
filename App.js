@@ -82,7 +82,7 @@ const quizData = [
   function showResult() {
     quizContainer.style.display = 'none';
     resultContainer.style.display = 'block';
-    scoreElement.innerHTML = `${"Your score "}` + score;
+    scoreElement.innerHTML = `${"Votre score "}` + score;
   }
 
   loadQuestion();
