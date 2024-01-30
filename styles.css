@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  .hidden{
+    display: none;
+  }
+  .feedback{
+    display: block;
+  }
+  button{
+    border: none;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+  }
+  p{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  h1{
+    color: green;
+    font-weight: 900;
+  }
+  
